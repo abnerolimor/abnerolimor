@@ -1,36 +1,29 @@
-## Oieee, seja bem-vindo(a) 👋
-
-Me chamo **Abner Moraes**, tenho 17 anos e moro no Paraná – BR 🇧🇷  
-Sou estudante de **Técnico em Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de novos aprendizados!
-
-- 💻 Desenvolvedor em formação  
-- 🔧 Experiência com suporte técnico e automações  
-- 🌎 Intercambista no Canadá pelo programa *Ganhando o Mundo*
+# My name is Abner
 
 ---
 
-## ⚒️ Tools I know
+### Abner Moraes's GitHub Stats
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Abner GitHub Stats](https://github-readme-stats.vercel.app/api?username=abner-moraes&show_icons=true&theme=tokyonight&hide=issues)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abner-moraes&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Connect with me
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
-## 🌐 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-de-oliveira-moraes-58b537323)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abner_oli?igsh=bjcyMjJrZW9wdmNj)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abner.oliveira.moraes@escola.pr.gov.br)
 
 ---
 
-> *"Trabalhar que é bom nada..." – mas codar a gente gosta 😄*
+### ⚒️ Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
