@@ -4,7 +4,7 @@
 
 <!-- Setor 1: GitHub Stats -->
 | ![Abner GitHub Stats](https://github-readme-stats.vercel.app/api?username=abnerolimor&show_icons=true&theme=tokyonight&hide=issues) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerolimor&layout=compact&theme=tokyonight) |
-|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
+
 
 ---
 
